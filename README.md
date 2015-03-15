@@ -7,14 +7,17 @@ Can Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfal
 ## 2015/03/15
 
 ## ■ Solved
-- #78 Subset (medium)
-- #39 Combination Sum (medium) 
-- #34 Search for a Range (medium)
+- #120 Triangle (medium), DP
+- # 55 Jump Game (medium), Greedy
+- # 78 Subset (medium)
+- # 39 Combination Sum (medium) 
+- # 34 Search for a Range (medium)
 
 ## ■ Next
-- #55 Jump Games (medium). hint: greedy, array
+- # 16  3sum Closest,  X + Y + Z ~ target
+- # 50   Pow(x,n), math, binary search
 
 ## ■ Comment
-- First uploaded.
+- 2015/03/15  From [StackOverFlow](http://stackoverflow.com/questions/3426843/what-is-the-default-initialization-of-an-array-in-java), it seems not to explicitly initialize the value to announced object, except local variable.
 
 ===
