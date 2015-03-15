@@ -1,8 +1,8 @@
-# Report to solved/unsolved algortithm problems on leetcode.com
+# Source codes on Java [leetcode](https://leetcode.com/)
 ---
 ===
 
-# Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
+## Report to solved/unsolved algortithm problems on leetcode.com. Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
 
 ## 2015/03/15
 
