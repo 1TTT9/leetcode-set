@@ -4,6 +4,15 @@
 Report to solved/unsolved algortithm problems on leetcode.com. 
 Can Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
 
+## 2015/03/23
+
+## ■ Solved
+- # 50   Pow(x,n), math, binary search
+
+## ■ Next
+- # 16  3sum Closest,  X + Y + Z ~ target
+
+
 ## 2015/03/15
 
 ## ■ Solved
