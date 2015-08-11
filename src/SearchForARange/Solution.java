@@ -1,4 +1,4 @@
-package SearchForARange;
+package searchForARange;
 
 public class Solution {
 	
