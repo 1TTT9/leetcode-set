@@ -4,6 +4,13 @@
 Report to solved/unsolved algortithm problems on leetcode.com. 
 Can Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
 
+2015/11/04
+- appended another solution to #46 permutations.
+- next
+- #47 permutation II
+- #46 try iteration solution, and pratice heap sort.
+
+
 2015/08/11
 - solved 
 - valid palindrome
