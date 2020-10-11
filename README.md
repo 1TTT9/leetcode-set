@@ -5,8 +5,7 @@ Source codes (Java) for [leetcode](https://leetcode.com/)
 
 #Description
 
-Report to solved/unsolved algortithm problems on leetcode.com. 
-Can Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
+Report to solved/unsolved algortithm problems on leetcode.com. Can Also check [my blog](http://danjog.blogspot.jp/) to see the tricks or pisfall while solving those problems.
 Do not forget to categorize qustions by their types and chosen algorithms, moreover, analyze its solution, time complexity, approach(iteration/recursion), corner problem, etc.
 
 
