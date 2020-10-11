@@ -18,7 +18,7 @@ Do not forget to categorize qustions by their types and chosen algorithms, moreo
      
   ### [122 Best Time to Buy and Sell Stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
     - 注意
-     - 根据题目的意思，当天卖出以后，当天还可以买入，所以其实可以第三天卖出，第三天买入，第四天又卖出（（5-1）+ （6-5） === 6 - 1）。所以算法可以直接简化为只要今天比昨天大，就卖出。
+     - **根据题目的意思，当天卖出以后，当天还可以买入**，所以其实可以第三天卖出，第三天买入，第四天又卖出（（5-1）+ （6-5） === 6 - 1）。所以算法可以直接简化为只要今天比昨天大，就卖出。
 
 
 - 2015/11/04
